@@ -9,7 +9,7 @@ ZAP needs to be installed on the system you intend to perform pentesting on.
 4. Select 'Standard' or 'Custom' installation
 5. Click 'Finish' to exit set up ![Finish dialog image]
 
-### Starting Up
+### Getting Started
 
 1. Launch ZAP ![image]
 2. Select 'Yes, I want to Persist Sessions...' to save ZAP sessions for later retrieval ![image]
