@@ -3,7 +3,7 @@
 ZAP needs to be installed on the system you intend to perform pentesting on.
 
 ### Installation
-1. [Download the latest version ZAP 2.7.0](https://github.com/zaproxy/zaproxy/wiki/Downloads) here
+1. [Download the latest version ZAP 2.7.0](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 2. Launch the installation wizard by double clicking on the downloaded executable file ![GitHub Logo](/images/logo.png)
 3. Read the License agreement and Click 'Accept' to continue the installation
 4. Select 'Standard' or 'Custom' installation
@@ -32,7 +32,7 @@ and the resources used to render those pages. Then it records the requests and r
 sent to each page and creates alerts if there is something potentially wrong with a request
 or response.
 
-Advanced Features
+#### Advanced Features
 
 For testing of applications protected using mutual SSL you should generate a Root CA certificate then install it within your browser or HTTP client application.[certificate generation instructions](certificate_generation_and_installation.mdown)
 
